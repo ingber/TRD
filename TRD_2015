@@ -1,0 +1,160 @@
+TRD_2015-CODE:
+total 40
+drwxr-xr-x 2 root root 4096 Jan 30 08:56 ARCHIVE
+drwxr-xr-x 2 root root 4096 Jan 30 11:03 DATA
+drwxr-xr-x 3 root root 4096 Sep  3  2013 FIX
+drwxr-xr-x 2 root root 4096 Jan 30 08:56 IO
+drwxr-xr-x 4 root root 4096 Sep  3  2013 OMS
+drwxr-xr-x 3 root root 4096 Jan 30 08:56 PLT
+drwxr-xr-x 2 root root 4096 Jan 30 08:56 RUN
+drwxr-xr-x 3 root root 4096 Jan 30 08:56 SCPTS
+drwxr-xr-x 2 root root 4096 Jan 30 08:56 SRC
+-rwxr-xr-x 1 root root 1922 Jan 30 08:41 TRD-LICENSE
+
+TRD_2015-CODE/ARCHIVE:
+total 0
+
+TRD_2015-CODE/DATA:
+total 0
+
+TRD_2015-CODE/FIX:
+total 4
+drwxr-xr-x 4 root root 4096 Sep  3  2013 OrderMS2
+
+TRD_2015-CODE/FIX/OrderMS2:
+total 8
+drwxr-xr-x 2 root root 4096 Jan 22  2012 EnterTrades
+drwxr-xr-x 2 root root 4096 Jan 19  2012 LiveOrderFiles
+-rwxr-xr-x 1 root root    0 Jan 19  2012 Portfolio.csv
+
+TRD_2015-CODE/FIX/OrderMS2/EnterTrades:
+total 0
+
+TRD_2015-CODE/FIX/OrderMS2/LiveOrderFiles:
+total 0
+
+TRD_2015-CODE/IO:
+total 0
+
+TRD_2015-CODE/OMS:
+total 8
+drwxr-xr-x 2 root root 4096 Jan 22  2012 EnterTrades
+drwxr-xr-x 2 root root 4096 Jan 19  2012 LiveOrderFiles
+-rwxr-xr-x 1 root root    0 Jan 19  2012 Portfolio.csv
+
+TRD_2015-CODE/OMS/EnterTrades:
+total 0
+
+TRD_2015-CODE/OMS/LiveOrderFiles:
+total 0
+
+TRD_2015-CODE/PLT:
+total 132
+-rwxr-xr-x 1 root root  483 Dec 12  2005 00SYM_DATE
+-rwxr-xr-x 1 root root  174 Feb 29  2008 0gnuplot
+-rwxr-xr-x 1 root root  255 Nov 20  2012 0prerequisites
+drwxr-xr-x 2 root root 4096 Jan 30 08:56 SYM_DATE
+-rwxr-xr-x 1 root root 3171 Jun  5  2006 gnuplot.tpl
+-rwxr-xr-x 1 root root 3179 Mar 27  2007 gnuplotDaily.tpl
+-rwxr-xr-x 1 root root 2857 Jan 12  2006 gnuplotPFL.tpl
+-rwxr-xr-x 1 root root 2865 Mar 27  2007 gnuplotPFLDaily.tpl
+-rwxr-xr-x 1 root root 3794 Nov  3  2010 gnuplotXYZ.tpl
+-rwxr-xr-x 1 root root 2032 Oct  7  2006 plotSymDate
+-rwxr-xr-x 1 root root 1983 Mar 27  2007 plotSymDateDaily
+-rwxr-xr-x 1 root root 1498 Nov  3  2010 rdbSymDate
+-rwxr-xr-x 1 root root 1335 Nov  3  2010 rdbSymDateDaily
+-rwxr-xr-x 1 root root  569 Nov  3  2010 rdbSymDatePFL
+-rwxr-xr-x 1 root root  518 Nov  3  2010 rdbSymDatePFLDaily
+-rwxr-xr-x 1 root root  570 Nov 20  2012 rdbSymDateXYZ
+-rwxr-xr-x 1 root root  127 Mar 13  2006 thresholdXYZ.tpl
+-rwxr-xr-x 1 root root  489 Dec 29  2011 xcatmore
+-rwxr-xr-x 1 root root  565 Dec 29  2011 xgnuplot
+-rwxr-xr-x 1 root root  519 Dec 29  2011 xgnuplotDaily
+-rwxr-xr-x 1 root root  603 Dec 29  2011 xgnuplotPFL
+-rwxr-xr-x 1 root root  552 Dec 29  2011 xgnuplotPFLDaily
+-rwxr-xr-x 1 root root 5011 Nov 20  2012 xgnuplotXYZ
+-rwxr-xr-x 1 root root 4659 Dec 29  2011 xgnuplotXYZDaily
+-rwxr-xr-x 1 root root  670 Dec 29  2011 xout_main_info
+-rwxr-xr-x 1 root root  532 Dec 29  2011 xprint_all_pdf
+-rwxr-xr-x 1 root root   71 Sep 30  2005 z1line
+-rwxr-xr-x 1 root root  115 Sep 30  2005 z2line
+-rwxr-xr-x 1 root root    8 Sep 30  2005 zcolons
+-rwxr-xr-x 1 root root   32 Mar 27  2007 zcolonsDaily
+-rwxr-xr-x 1 root root   50 Jan 12  2006 ztimdatrdb
+
+TRD_2015-CODE/PLT/SYM_DATE:
+total 0
+
+TRD_2015-CODE/RUN:
+total 0
+
+TRD_2015-CODE/SCPTS:
+total 4
+drwxr-xr-x 2 root root 4096 Jan 30 08:56 TT
+
+TRD_2015-CODE/SCPTS/TT:
+total 64
+-rwxr-xr-x 1 root root   278 Nov 23  2012 0xpaths
+-rwxr-xr-x 1 root root 15417 Mar 13  2008 Dates
+-rwxr-xr-x 1 root root  2184 Nov 23  2012 xTrainTest.0
+-rwxr-xr-x 1 root root  7779 Nov 23  2012 xTrainTest.all
+-rwxr-xr-x 1 root root  7140 Dec 29  2011 xTrainTest.post
+-rwxr-xr-x 1 root root  2780 Jun 29  2011 xTrainTest.run
+-rwxr-xr-x 1 root root   336 Jun 29  2011 xTrainTest.tpl
+-rwxr-xr-x 1 root root   879 Dec  3  2014 xtrd
+-rwxr-xr-x 1 root root   424 Nov 23  2012 xtt
+-rwxr-xr-x 1 root root  1498 Nov 23  2012 xyears_trial
+-rwxr-xr-x 1 root root  3019 Nov  8  2011 xyears_tt
+
+TRD_2015-CODE/SRC:
+total 2064
+-rwxr-xr-x 1 root root     49 Dec 17  2005 0api
+-rwxr-xr-x 1 root root     49 Dec 17  2005 0trd
+-rwxr-xr-x 1 root root   1926 Dec 29 08:21 ASA-LICENSE
+-rwxr-xr-x 1 root root  12939 Dec 28  2014 Makefile
+-rwxr-xr-x 1 root root   1922 Jan 30 08:41 TRD-LICENSE
+-rwxr-xr-x 1 root root 261499 Jan 27  2015 asa.c
+-rwxr-xr-x 1 root root  14614 Jan 27  2015 asa.h
+-rwxr-xr-x 1 root root   2672 Dec 28  2014 asa_opt
+-rwxr-xr-x 1 root root 189924 Dec 28  2014 asa_usr.c
+-rwxr-xr-x 1 root root  14791 Dec 28  2014 asa_usr.h
+-rwxr-xr-x 1 root root  17437 Dec 28  2014 asa_usr_asa.h
+-rwxr-xr-x 1 root root   6221 Dec 28  2014 asa_usr_cst.c
+-rwxr-xr-x 1 root root  16072 Jan 18  2015 data_markets.c
+-rwxr-xr-x 1 root root  48878 Jan 18  2015 data_markets.txt
+-rwxr-xr-x 1 root root 184917 Dec 28  2014 data_update.c
+-rwxr-xr-x 1 root root  48485 Dec 28  2014 main.c
+-rwxr-xr-x 1 root root  43009 Dec 28  2014 main_memory.c
+-rwxr-xr-x 1 root root  44899 Dec 28  2014 main_parameters.c
+-rwxr-xr-x 1 root root   2913 Dec 28  2014 main_parameters.txt
+-rwxr-xr-x 1 root root   2916 Dec 28  2014 main_parameters_test.txt
+-rwxr-xr-x 1 root root   2917 Dec 28  2014 main_parameters_train.txt
+-rwxr-xr-x 1 root root  11643 Dec 28  2014 main_results.c
+-rwxr-xr-x 1 root root  12424 Dec 28  2014 main_setup.c
+-rwxr-xr-x 1 root root   7340 Dec 28  2014 prob_markets.c
+-rwxr-xr-x 1 root root  24500 Dec 28  2014 prob_multimrkt.c
+-rwxr-xr-x 1 root root  27546 Dec 28  2014 prob_portfolio.c
+-rwxr-xr-x 1 root root   4246 Dec 28  2014 risk_level.c
+-rwxr-xr-x 1 root root   6703 Dec 28  2014 risk_markets.c
+-rwxr-xr-x 1 root root   6210 Dec 28  2014 risk_multicontrcts.c
+-rwxr-xr-x 1 root root  13990 Dec 28  2014 risk_objective.c
+-rwxr-xr-x 1 root root  11670 Dec 28  2014 risk_portfolio.c
+-rwxr-xr-x 1 root root  84179 Jan 18  2015 trad_indicators.c
+-rwxr-xr-x 1 root root   3265 Dec 28  2014 trad_level.c
+-rwxr-xr-x 1 root root  36596 Dec 28  2014 trad_objective.c
+-rwxr-xr-x 1 root root    912 Dec 28  2014 trad_optim_level.c
+-rwxr-xr-x 1 root root  86045 Dec 28  2014 trad_orders.c
+-rwxr-xr-x 1 root root  25585 Dec 28  2014 trad_parameters.c
+-rwxr-xr-x 1 root root  30751 Dec 28  2014 trad_parameters.txt
+-rwxr-xr-x 1 root root 509080 Jan 18  2015 trad_rules.c
+-rwxr-xr-x 1 root root  12774 Dec 28  2014 trad_signals.c
+-rwxr-xr-x 1 root root  52324 Dec 28  2014 trad_update.c
+-rwxr-xr-x 1 root root  34237 Dec 28  2014 trd.h
+-rwxr-xr-x 1 root root  29174 Dec 28  2014 trd_struct.h
+-rwxr-xr-x 1 root root   3718 Dec 28  2014 util_cholesky.c
+-rwxr-xr-x 1 root root  10395 Dec 28  2014 util_distributions.c
+-rwxr-xr-x 1 root root   4345 Dec 28  2014 util_errRet.c
+-rwxr-xr-x 1 root root   1947 Dec 28  2014 util_filter.c
+-rwxr-xr-x 1 root root   6312 Dec 28  2014 util_matinv.c
+-rwxr-xr-x 1 root root  12771 Dec 28  2014 util_moments.c
+-rwxr-xr-x 1 root root  23737 Dec 28  2014 util_time.c
